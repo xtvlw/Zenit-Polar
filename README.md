@@ -1,6 +1,6 @@
 # Zenit-Polar
 this was made to post in my channel on youtube
-link the video : 
+link the video : https://youtu.be/iMx40Nf250g
 
 
 Zenit Polar is a simple criptography system.
