@@ -1,3 +1,4 @@
+#_[N_F]_
 zenit, polar = 'zenit', 'polar'
 final_message = ''
 message = input('message : ')
